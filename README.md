@@ -33,6 +33,3 @@ Connect with me on LinkedIn: [www.linkedin.com/in/pedrohscheidt](https://www.lin
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSP303&theme=transparent&bg_color=000000&border_color=000&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF&hide=stars)
-
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HSP303&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HSP303/dio-lab-open-source)
