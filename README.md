@@ -26,7 +26,12 @@ Connect with me on LinkedIn: [www.linkedin.com/in/pedrohscheidt](https://www.lin
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Linguagens de Programação
-
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23ED1C24.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## Projetos do GitHub
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HSP303&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
